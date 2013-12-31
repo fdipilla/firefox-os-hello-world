@@ -1,0 +1,10 @@
+{
+  "name": "Hola Mundo",
+  "description": "El hola mundo de Fabri",
+  "version": "0.1",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Fabrizio Di Pilla",
+    "url": "http://fabriziodipilla.com.ar"
+  }
+}
